@@ -1,2 +1,5 @@
 temp_file_corpus.txt
 /.ipynb_checkpoints
+
+# following file is too big
+/data/hololive_comments_64244_360_10_4.csv
